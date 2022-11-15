@@ -33,7 +33,7 @@ a:hover {
 }
 header {
     background-image: url(./picture.jpg);
-    color: white;
+    color: rgb(242, 255, 0);
     height: 100vh;
     background-size: cover;
     display: flex;
