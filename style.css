@@ -5,6 +5,9 @@ nav {
     background-color: rgb(33, 33, 33);
     position: sticky;
     top: 0;
+    left: 0;
+    right: 0;
+    
 }
 nav ul {
     padding: none;
