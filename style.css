@@ -23,7 +23,7 @@ a {
     padding: 20px 10px 20px 10px;
     display: inline-block;
     color: white;
-    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 a:hover {
@@ -31,3 +31,4 @@ a:hover {
     color: yellow;
     text-decoration: underline;
 }
+
