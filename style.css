@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+nav {
+    background-color: rgb(33, 33, 33);
+}
+nav ul {
+    padding: none;
+    margin: none;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+body {
+    margin: 0;
+}
+a {
+    padding: 20px 10px 20px 10px;
+    display: inline-block;
+    color: white;
+
+}
+a:hover {
+    background-color: red;
+    color: yellow;
+}
