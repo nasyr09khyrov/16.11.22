@@ -31,4 +31,10 @@ a:hover {
     color: yellow;
     text-decoration: underline;
 }
+header {
+    background-image: url(./picture.jpg);
+    color: white;
+    height: 100vh;
+    background-size: cover;
+}
 
