@@ -52,3 +52,6 @@ header {
     justify-content: center;
     align-items: center;
 }
+img {
+    border: thick double #32a1ce;
+}
