@@ -42,7 +42,7 @@ header {
     align-items: center;
 }
 .a1 {
-    background-color: brown;
+    background-image: url(./milk.jpg);
     color: bisque;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
